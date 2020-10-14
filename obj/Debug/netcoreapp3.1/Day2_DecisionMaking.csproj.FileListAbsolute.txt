@@ -1,0 +1,13 @@
+D:\Bootcamp\Day2_DecisionMaking\bin\Debug\netcoreapp3.1\Day2_DecisionMaking.exe
+D:\Bootcamp\Day2_DecisionMaking\bin\Debug\netcoreapp3.1\Day2_DecisionMaking.deps.json
+D:\Bootcamp\Day2_DecisionMaking\bin\Debug\netcoreapp3.1\Day2_DecisionMaking.runtimeconfig.json
+D:\Bootcamp\Day2_DecisionMaking\bin\Debug\netcoreapp3.1\Day2_DecisionMaking.runtimeconfig.dev.json
+D:\Bootcamp\Day2_DecisionMaking\bin\Debug\netcoreapp3.1\Day2_DecisionMaking.dll
+D:\Bootcamp\Day2_DecisionMaking\bin\Debug\netcoreapp3.1\Day2_DecisionMaking.pdb
+D:\Bootcamp\Day2_DecisionMaking\obj\Debug\netcoreapp3.1\Day2_DecisionMaking.AssemblyInfoInputs.cache
+D:\Bootcamp\Day2_DecisionMaking\obj\Debug\netcoreapp3.1\Day2_DecisionMaking.AssemblyInfo.cs
+D:\Bootcamp\Day2_DecisionMaking\obj\Debug\netcoreapp3.1\Day2_DecisionMaking.csproj.CoreCompileInputs.cache
+D:\Bootcamp\Day2_DecisionMaking\obj\Debug\netcoreapp3.1\Day2_DecisionMaking.dll
+D:\Bootcamp\Day2_DecisionMaking\obj\Debug\netcoreapp3.1\Day2_DecisionMaking.pdb
+D:\Bootcamp\Day2_DecisionMaking\obj\Debug\netcoreapp3.1\Day2_DecisionMaking.genruntimeconfig.cache
+D:\Bootcamp\Day2_DecisionMaking\obj\Debug\netcoreapp3.1\Day2_DecisionMaking.csprojAssemblyReference.cache
